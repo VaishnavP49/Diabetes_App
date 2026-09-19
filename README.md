@@ -1,2 +1,1 @@
-# Diabetes_App
-This is my first app.
+#### SimpleDiabetes Prediction App designed using Streamlit
